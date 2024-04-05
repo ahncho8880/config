@@ -1,3 +1,10 @@
-mac:
-  book:
+apple:
+  macbook:
     pro: "ismine"
+  iphone:
+    pro: "owner"
+
+samsung:
+  galaxy:
+    20: "isnotmine"
+
