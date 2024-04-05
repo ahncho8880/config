@@ -1,1 +1,6 @@
-country: "korea"
+spring:
+  datasource:
+    driverClassName: com.mysql.cj.jdbc.Driver
+    url: "mysqlUrl"
+    username: "usernameSample"
+    password: "passwordSample"
