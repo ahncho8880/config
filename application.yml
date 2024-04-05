@@ -4,3 +4,4 @@ spring:
     url: "mysqlUrl"
     username: "usernameSample"
     password: "passwordSample"
+    helloworld: "aaaa"
